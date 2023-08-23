@@ -1,2 +1,2 @@
 # CSS-Grid-Wesbos
-This WesBos CSS Grid web course
+This is WesBos CSS Grid web course
