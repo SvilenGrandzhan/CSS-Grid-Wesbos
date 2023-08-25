@@ -16,3 +16,4 @@
     "run-script-os": "^1.0.3"
   }
 }
+//browser-sync start --server --files '**/*.css, **/*.html, **/*.js, !node_modules/**/*' --directory --port 7777 --browser "C:\Program Files\Google\Chrome\Application\Chrome.exe"
